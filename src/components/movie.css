@@ -1,0 +1,8 @@
+.movie {
+    padding: 5px 50px 10px 50px;
+    width:13%;
+}
+
+h2 {
+    height: calc(30px + 2vmin);
+}
