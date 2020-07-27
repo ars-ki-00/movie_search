@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
-      <div className="App">
+      <div className="Ap">
         <Switch>
           <Route path='/' exact component={Main} />
         </Switch>
